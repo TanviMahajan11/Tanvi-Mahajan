@@ -16,8 +16,8 @@ This profile is linked to my work as a student in CSCI 630 at CSU Chico.
 | Pair Programming| https://github.com/ChicoState/PantryNode/issues/231| Worked with [chetan](https://github.com/chetan2298) to write tests for the placeholder for Donar Page  |
 | Pair Programming |  ChicoState/PantryNode#182 | Worked With [chetan](https://github.com/chetan2298) for Writing test cases for Donar page |
 | Testing | https://github.com/ChicoState/PantryNode/issues/182| Removinig CI=true on Donor Page Tests |
-| Testing | https://github.com/ChicoState/PantryNode/issues/182| Testing ordering functionality and dummy data check for Donar page |
-| Testing | https://github.com/ChicoState/PantryNode/issues/182| Added Email Sorting test for Donar page|
+| Testing | https://github.com/ChicoState/PantryNode/issues/182| Testing ordering functionality and dummy data check for Donor page |
+| Testing | https://github.com/ChicoState/PantryNode/issues/182| Added Email Sorting test for Donor page|
 | Pair Programming | ChicoState/PantryNode#166  | Worked with [Anoushka](https://github.com/Anoushka444), [chetan](https://github.com/chetan2298) on Placeholder Frontend tests |
 | Testing | ChicoState/PantryNode#166  | Placeholder Frontend tests |
 | Pair Programming | ChicoState/PantryNode#237 | Merged and Worked with [chetan](https://github.com/chetan2298) on Correctly mocked useNavigate Hook for Donors.test|
