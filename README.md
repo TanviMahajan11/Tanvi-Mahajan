@@ -23,7 +23,7 @@ This profile is linked to my work as a student in CSCI 630 at CSU Chico.
 | Pair Programming | ChicoState/PantryNode#237 | Merged and Worked with [chetan](https://github.com/chetan2298) on Correctly mocked useNavigate Hook for Donors.test|
 | CodeReview | ChicoState/PantryNode#165 | Reviewed  |
 | CodeReview | ChicoState/PantryNode#185 | Reviewed Coverage report - FE  |
-| Research   | ChicoState/PantryNode#185 | Actively contributed to discussion on coverage report generation using jest w  |
+| Research   | ChicoState/PantryNode#185 | Actively contributed to discussion on coverage report generation using jest  |
 | CodeReview | ChicoState/PantryNode#237 | Reviewed Correctly mocked useNavigate Hook for Donors.test |
 | CodeReview | ChicoState/PantryNode#225 | Reviewed Test Cases for Sale table|
 | CodeReview | ChicoState/PantryNode#246 | Added frontend test cases             |
